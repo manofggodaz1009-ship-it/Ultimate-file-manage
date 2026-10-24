@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Secure Notepad</string>
+    <string name="app_subtitle_ta">பாதுகாப்பான நோட்பேட்</string>
+    <string name="biometric_title">கைரேகை பாதுகாப்பு</string>
+    <string name="biometric_desc">செயலியைத் திறக்க உங்கள் விரலை வைக்கவும்</string>
+    <string name="biometric_cancel">ரத்து செய்</string>
+    <string name="save_file">கோப்பை சேமி</string>
+    <string name="open_file">கோப்பை திறக்க</string>
+</resources>

@@ -1,0 +1,8 @@
+{
+  "name": "Secure Notepad",
+  "description": "Biometric fingerprint secure notepad with dark/light themes, custom file extensions, direct file manager integration, and ZIP export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
